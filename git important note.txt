@@ -22,11 +22,6 @@ git push -u origin main
 
 
 
-git config --global user.email "sadmansamadlian@gmail.com"
-git config --global user.name "sadman-samad"
-git config list
-
-
 git config --global user.email "talkmamun@gmail.com"
 git config --global user.name "talkmamun"
 git config list
