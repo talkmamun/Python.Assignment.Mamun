@@ -1,0 +1,32 @@
+
+
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/talkmamun/Python.Assignment.Mamun.git
+git push -u origin main
+
+
+git pull
+git checkout -b main
+git merge main
+git push origin main
+git clone https://github.com/Sadman-Samad/nameless.git
+
+
+git commit -m "first commit"
+git remote add origin https://github.com/Sadman-Samad/nameless.git
+git branch -M main
+git push -u origin main
+
+
+
+git config --global user.email "sadmansamadlian@gmail.com"
+git config --global user.name "sadman-samad"
+git config list
+
+
+git config --global user.email "talkmamun@gmail.com"
+git config --global user.name "talkmamun"
+git config list
